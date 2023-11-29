@@ -38,11 +38,11 @@
 //ในกรณีที่มีตัวแปรชื่อเดียวกันเพราะหากมีตัวใหญ่ที่แตกต่างถือเป็นคนละตัวแปรจาก case sensitive
 
 // Lab 7
-// const country = 'Thailand';
-// const continent = 'Asia';
-// console.log(`number is ${2}`);
-// console.log(`result is ${1 + 3}`);
-// console.log(`I live in ${country}`);
-// console.log(`I live in ${country}, ${continent}`);
-// console.log(`I live in ${country +','+ continent}`);
-// console.log(`I live in ${`country, continent`}`);
+const country = 'Thailand';
+const continent = 'Asia';
+console.log(`number is ${2}`);
+console.log(`result is ${1 + 3}`);
+console.log(`I live in ${country}`);
+console.log(`I live in ${country}, ${continent}`);
+console.log(`I live in ${country +','+ continent}`);
+console.log(`I live in ${`country, continent`}`);
